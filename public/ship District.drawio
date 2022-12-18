@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-18T17:29:13.737Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="yMq8r4EUACYw5IVQ8rWM" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-18T17:32:01.366Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="aT2wEkUzdulXeXDgdmnB" version="20.7.4" type="github">
   <diagram id="sW-k5IwQaTGZ5rN8S6sj" name="Page-1">
     <mxGraphModel dx="2049" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -203,7 +203,7 @@
         <mxCell id="I_9H3etlu-zK3Efqb3r3-26" value="Admin upload/assign&amp;nbsp;&lt;br&gt;&amp;nbsp;slip to virtual mailbox" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="80" y="550" width="120" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="I_9H3etlu-zK3Efqb3r3-29" value="open inbox" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="I_9H3etlu-zK3Efqb3r3-29" value="inbox" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="690" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-30" value="save&lt;br&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
