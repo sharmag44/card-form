@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T10:40:49.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="h2frIv2uCCJ8AbRZhrVQ" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T10:56:29.227Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="z-F8qcH75NXwhmBBXJ4z" version="20.7.4" type="github">
   <diagram id="sW-k5IwQaTGZ5rN8S6sj" name="Page-1">
     <mxGraphModel dx="875" dy="484" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -134,9 +134,6 @@
         <mxCell id="cfl4rptSdVp8EchHqUEe-29" value="add sender detaill and verfiy" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1590" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cfl4rptSdVp8EchHqUEe-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cfl4rptSdVp8EchHqUEe-31" target="cfl4rptSdVp8EchHqUEe-34" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="CPF4IGs-NTCu1cXFSOXW-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cfl4rptSdVp8EchHqUEe-31" target="CPF4IGs-NTCu1cXFSOXW-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -158,25 +155,28 @@
         <mxCell id="cfl4rptSdVp8EchHqUEe-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="cfl4rptSdVp8EchHqUEe-40" target="cfl4rptSdVp8EchHqUEe-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="CPF4IGs-NTCu1cXFSOXW-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cfl4rptSdVp8EchHqUEe-40" target="CPF4IGs-NTCu1cXFSOXW-17">
+        <mxCell id="CPF4IGs-NTCu1cXFSOXW-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cfl4rptSdVp8EchHqUEe-40" target="CPF4IGs-NTCu1cXFSOXW-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cfl4rptSdVp8EchHqUEe-40" value="add additional Detail" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1580" y="590" width="145" height="70" as="geometry" />
+          <mxGeometry x="1580" y="590" width="145" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="cfl4rptSdVp8EchHqUEe-45" target="cfl4rptSdVp8EchHqUEe-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cfl4rptSdVp8EchHqUEe-45" value="ship now&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1595" y="827" width="120" height="40" as="geometry" />
+          <mxGeometry x="1592.5" y="827" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="cfl4rptSdVp8EchHqUEe-48" target="I_9H3etlu-zK3Efqb3r3-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="cfl4rptSdVp8EchHqUEe-48" value="add card and complete payment&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1595" y="930" width="120" height="60" as="geometry" />
+        <mxCell id="cfl4rptSdVp8EchHqUEe-48" value="Add card and complete payment" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="1592.5" y="930" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="I_9H3etlu-zK3Efqb3r3-2" value="generate invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CPF4IGs-NTCu1cXFSOXW-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="I_9H3etlu-zK3Efqb3r3-2" target="CPF4IGs-NTCu1cXFSOXW-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="I_9H3etlu-zK3Efqb3r3-2" value="Generate Invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1592.5" y="1050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-4" value="generate invoice" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -338,11 +338,13 @@
         <mxCell id="CPF4IGs-NTCu1cXFSOXW-4" value="Verify email" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="680" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="CPF4IGs-NTCu1cXFSOXW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="CPF4IGs-NTCu1cXFSOXW-17" target="cfl4rptSdVp8EchHqUEe-45">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="CPF4IGs-NTCu1cXFSOXW-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="cfl4rptSdVp8EchHqUEe-45">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1652.5" y="770" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="CPF4IGs-NTCu1cXFSOXW-17" value="Get Rate" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1580" y="700" width="145" height="70" as="geometry" />
+        <mxCell id="CPF4IGs-NTCu1cXFSOXW-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="CPF4IGs-NTCu1cXFSOXW-19" target="cfl4rptSdVp8EchHqUEe-34">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="CPF4IGs-NTCu1cXFSOXW-19" value="Verify from api" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1780" y="230" width="120" height="60" as="geometry" />
@@ -352,6 +354,12 @@
         </mxCell>
         <mxCell id="CPF4IGs-NTCu1cXFSOXW-25" value="Login" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="630" y="1030" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPF4IGs-NTCu1cXFSOXW-31" value="Update Quote" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1592.5" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CPF4IGs-NTCu1cXFSOXW-33" value="Label" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1592.5" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
