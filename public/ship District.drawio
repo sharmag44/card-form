@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-19T04:49:24.507Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="pWWGuxVBkzzriTKBLwSk" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-19T04:51:30.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="w8IEscMUiXDamRQ0xsZo" version="20.7.4" type="github">
   <diagram id="sW-k5IwQaTGZ5rN8S6sj" name="Page-1">
     <mxGraphModel dx="1434" dy="800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -228,6 +228,9 @@
         <mxCell id="I_9H3etlu-zK3Efqb3r3-35" value="choose carrier preferences" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="460" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="9S0eUUzIp_0I8Bharcj8-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="I_9H3etlu-zK3Efqb3r3-37" target="9S0eUUzIp_0I8Bharcj8-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-37" value="Open and scan" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="800" width="120" height="60" as="geometry" />
         </mxCell>
@@ -249,13 +252,16 @@
           <mxGeometry x="1200" y="920" width="90" height="80" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-47" value="Select existing address" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="927" width="120" height="60" as="geometry" />
+          <mxGeometry x="1040" y="930" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-57" value="add new Address" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1185" y="1040" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I_9H3etlu-zK3Efqb3r3-59" value="hold fot pickup" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1320" y="1100" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="9S0eUUzIp_0I8Bharcj8-1" value="Move Into archive" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="900" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
